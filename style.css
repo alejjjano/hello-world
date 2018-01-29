@@ -1,0 +1,75 @@
+body{
+
+    background-color: #f6f6f6;
+    text-align: justify;
+    font-family: "Segoe UI";
+    color:#3c3c3b;
+    margin: 3em;
+}
+
+/*This is my picture
+is meant to define the size*/
+#me{
+    float: left;
+    margin: 0em 1em 1em 0em;
+    width: 20%;
+    padding: 15px;
+    border: 1px #3c3c3b solid;
+}
+
+#me:hover{
+    background-color:#c9c9c9;
+}
+
+
+h1{
+    font-size: 4em;
+    -webkit-margin-before:0.25em;
+    -webkit-margin-after:0.25em;
+}
+
+h3{
+    font-size: 1.5em;
+    text-decoration: underline;
+    -webkit-margin-before:0.25em;
+    -webkit-margin-after:0.25em;
+}
+
+h4{
+    font-size: 1.5em;
+}
+
+p {
+    border-color: #3c3c3b;
+    border-style: solid;
+    border-width: 0px 0px 0px 1px;
+    padding: 0px 0px 0px 10px;
+    line-height: 1.5em;
+    font-size: 1em;
+    margin: 1.5em 0em 1.5em 0em;
+}
+
+ul, ol {
+    font-size:0.8em;
+}
+
+input, select{
+    font-family: "Segoe UI";
+    font-size: 0.8em;
+}
+
+#nopar {
+    border-width: 0px;    
+}
+
+aside {
+    float:left;
+    background-color: #3c3c3b;
+    padding:1em;
+    color: white;
+    font-size:0.8em;
+    text-align: left;
+    width: 10%;
+    height: 75em;
+    margin: 0em 2em 2em 0em;
+}
