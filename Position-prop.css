@@ -1,0 +1,14 @@
+body{
+  font-family: helvetica;
+  background-color: silver;
+  color: white;
+}
+
+h2 {
+  float: right;
+  background-color: black;
+  padding: 25px 40px 25px 0px;
+  text-align: right;
+  width: 50%;
+  font-size: 25px;
+}
